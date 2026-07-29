@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nihongai.github.io/qwen-domestic-use-liuguang/sitemap.xml
